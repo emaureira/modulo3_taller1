@@ -1,2 +1,6 @@
-# modulo3_taller1
-Repositorio para el ejercicio 1 del modulo 3
+# Ejercicio 1 Modulo 3
+Los integrantes del grupos son:
+  Carla Garcia
+  Felipe Rodriguez
+  Edwin Maureira
+  
